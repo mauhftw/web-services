@@ -1,12 +1,4 @@
-************************************************
-******* SERVICIOS DE APLICACION  ***************
-************************************************
-************************************************
-
-
-*******************************
-INSTRUCCIONES DE USO:
-*******************************
+## Instrucciones
 
 1) Instalar postfix y powerdns
 2) Loguearse con Usuario: admin y Password: pepedemonio2314
